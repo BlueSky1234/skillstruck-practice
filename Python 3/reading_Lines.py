@@ -1,0 +1,5 @@
+file1 = open("test.txt", "r")
+print(file1.read(10))
+print(file1.readline())
+print(file1.readline())
+file1.close()
