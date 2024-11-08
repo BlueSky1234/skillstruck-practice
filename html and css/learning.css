@@ -1,0 +1,25 @@
+body {
+    background-color : rgba(0,0,0, .88)
+}
+h1 {
+    color: black;
+    font-family: courier;
+} 
+h3{
+    color : lightgray;
+    font-family : Courier;
+    margin: 10px;
+}
+p {
+    color : lightgray;
+    font-family : Verdana;
+    margin: 10px;
+}
+div {
+    border-radius: 5px;
+    background-color: rgba(50,50,50, .6);
+    box-shadow: 10px 10px 8px;
+}
+img{
+    border-radius: 5px;
+}
