@@ -1,0 +1,12 @@
+body {
+    width: 500px;
+    height: 700px;
+    background:
+        linear-gradient(90deg, rgba(252, 58, 109, .7), transparent 30%),
+        linear-gradient(180deg, rgba(253, 159, 19, 0.5), transparent 30%),
+        linear-gradient(180deg,rgba(252, 227, 162, 1), transparent 100%),
+        linear-gradient(160deg, rgba(59,141,254), transparent 100%),
+        linear-gradient(35deg, rgba(136,91,233, 1), transparent 100%);
+    background-repeat: no-repeat;    
+        
+}
